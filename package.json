@@ -14,8 +14,8 @@
         "cli-color": "*",
         "dateformat": "*",
         "base58-native": "*",
-        "multi-hashing": "git+http://duckpool.mooo.com/node-multi-hashing.git",
-        "cryptonote-util": "git+http://duckpool.mooo.com/node-cryptonote-util.git"
+        "multi-hashing": "git://github.com/moneromooo/node-multi-hashing.git",
+        "cryptonote-util": "git://github.com/moneromooo/node-cryptonote-util.git"
     },
     "engines": {
         "node": ">=0.10"
